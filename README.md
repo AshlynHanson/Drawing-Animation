@@ -1,5 +1,7 @@
 # Drawing-Animation
 
+https://user-images.githubusercontent.com/44590338/138945345-91f3e90c-ebad-4a20-b19d-cd436d125f9f.mov
+
 ## Version:
 I implemented this program using the MAC OS 10.15.7 operating system using
 Java JDK version 16 with JOGL version 2.4
